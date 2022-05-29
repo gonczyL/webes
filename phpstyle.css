@@ -1,0 +1,65 @@
+#parag
+{
+    color:blue;
+}
+
+#kinezet
+{
+    color: yellow;
+}
+
+#bekerusername
+{
+    color: black;
+    text-align : center;
+    height: 30px;
+}
+
+#bekerpassword
+{
+    color: black;
+    text-align : center;
+    height: 30px;
+}
+
+body
+{
+    background-color: purple;
+}
+
+#position
+{
+    margin-top: 200px;
+    margin-right: 80px;
+    font-size: 30px;
+}
+
+#position2
+{
+    margin-right: 130px;
+    font-size: 30px;
+}
+
+.nnk
+{
+    margin-top: 0px;
+    font-size: 50px;
+}
+
+#username_error
+{
+    color: red;
+    display: none;
+}
+
+#password_error
+{
+    color: red;
+    display: none;
+}
+
+#button
+{
+    height: 40px; 
+    width: 150px;
+}
